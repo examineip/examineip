@@ -41,5 +41,7 @@ No signup, no ads, and lookups aren't stored.
 
 - [**dnsbl-check**](https://github.com/examineip/dnsbl-check) — a DNS blacklist checker that doesn't
   report refused queries as listings, timeouts as clean, or dead lists at all.
+- [**subnet-calc**](https://github.com/examineip/subnet-calc) — IPv4 subnet arithmetic with `/0`, `/31`,
+  `/32` and mask edge cases done properly, tested against Python's `ipaddress`.
 
 📫 contact@examineip.com
