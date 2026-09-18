@@ -48,6 +48,10 @@ No signup, no ads, and lookups aren't stored.
   [Live demo](https://examineip.github.io/webrtc-leak-check/demo.html)
 - [**rdap-lookup**](https://github.com/examineip/rdap-lookup) — readable WHOIS for domains and IPs over
   RDAP; tells "not registered" apart from "this TLD has no RDAP".
+- [**email-auth-headers**](https://github.com/examineip/email-auth-headers) — explains SPF, DKIM and DMARC
+  from raw email headers without flagging legitimate newsletters as suspicious.
+- [**password-tools**](https://github.com/examineip/password-tools) — honest strength estimates,
+  crypto-random generators with the EFF wordlist, and a private Have I Been Pwned check.
 - [**subnet-calc**](https://github.com/examineip/subnet-calc) — IPv4 subnet arithmetic with `/0`, `/31`,
   `/32` and mask edge cases done properly, tested against Python's `ipaddress`.
 
