@@ -41,7 +41,17 @@ No signup, no ads, and lookups aren't stored.
 
 - [**dnsbl-check**](https://github.com/examineip/dnsbl-check) — a DNS blacklist checker that doesn't
   report refused queries as listings, timeouts as clean, or dead lists at all.
+- [**doh-compare**](https://github.com/examineip/doh-compare) — asks Google and Cloudflare the same DNS
+  question over DoH and tells real differences from quoting, ordering and GeoDNS noise.
+- [**webrtc-leak-check**](https://github.com/examineip/webrtc-leak-check) — WebRTC IP leak detection
+  without the false alarms: ignores mDNS and private addresses, compares per IP family.
+  [Live demo](https://examineip.github.io/webrtc-leak-check/demo.html)
+- [**rdap-lookup**](https://github.com/examineip/rdap-lookup) — readable WHOIS for domains and IPs over
+  RDAP; tells "not registered" apart from "this TLD has no RDAP".
 - [**subnet-calc**](https://github.com/examineip/subnet-calc) — IPv4 subnet arithmetic with `/0`, `/31`,
   `/32` and mask edge cases done properly, tested against Python's `ipaddress`.
+
+Every repo has an offline test suite running in CI, and each tool is live, free and signup-free
+on the site.
 
 📫 contact@examineip.com
