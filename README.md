@@ -17,7 +17,8 @@ No signup, no ads, and lookups aren't stored.
 [Ping Test](https://tools.examineip.com/ping-test/) ·
 [Speed Test](https://tools.examineip.com/speed-test/) ·
 [Subnet Calculator](https://tools.examineip.com/subnet-calculator/) ·
-[Email Header Analyzer](https://tools.examineip.com/email-header-analyzer/)
+[Email Header Analyzer](https://tools.examineip.com/email-header-analyzer/) ·
+[DMARC / SPF / DKIM Checker](https://tools.examineip.com/dmarc-checker/)
 
 **🛠️ Utilities**
 [Encoding & hashing](https://tools.examineip.com/encoding-tools/) ·
