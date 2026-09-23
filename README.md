@@ -9,16 +9,30 @@ No signup, no ads, and lookups aren't stored.
 [IP Reputation](https://tools.examineip.com/ip-reputation/) ·
 [Bulk IP Lookup](https://tools.examineip.com/bulk-ip-lookup/) ·
 [Port Scanner](https://tools.examineip.com/port-scanner/) ·
+[IPv6 Readiness Test](https://tools.examineip.com/ipv6-test/) ·
 [Privacy Exposure Score](https://examineip.com/privacy-exposure-score/)
 
-**🌐 Network diagnostics**
+**🌐 DNS**
 [DNS Checker](https://tools.examineip.com/dns-checker/) ·
-[WHOIS Lookup](https://tools.examineip.com/whois-lookup/) ·
+[DNS Propagation Checker](https://tools.examineip.com/dns-propagation-checker/) ·
+[DNSSEC Checker](https://tools.examineip.com/dnssec-checker/) ·
+[WHOIS Lookup](https://tools.examineip.com/whois-lookup/)
+
+**📡 Network diagnostics**
 [Ping Test](https://tools.examineip.com/ping-test/) ·
 [Speed Test](https://tools.examineip.com/speed-test/) ·
-[Subnet Calculator](https://tools.examineip.com/subnet-calculator/) ·
+[Subnet Calculator](https://tools.examineip.com/subnet-calculator/)
+
+**✉️ Email authentication**
+[DMARC / SPF / DKIM Checker](https://tools.examineip.com/dmarc-checker/) ·
 [Email Header Analyzer](https://tools.examineip.com/email-header-analyzer/) ·
-[DMARC / SPF / DKIM Checker](https://tools.examineip.com/dmarc-checker/)
+[DMARC Report Reader](https://tools.examineip.com/dmarc-report-reader/)
+
+**🔐 Web security**
+[SSL Certificate Checker](https://tools.examineip.com/ssl-checker/) ·
+[HTTP Security Headers](https://tools.examineip.com/security-headers/) ·
+[Lookalike Domain Checker](https://tools.examineip.com/homograph-checker/) ·
+[QR Code Decoder](https://tools.examineip.com/qr-decoder/)
 
 **🛠️ Utilities**
 [Encoding & hashing](https://tools.examineip.com/encoding-tools/) ·
