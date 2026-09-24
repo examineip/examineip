@@ -69,6 +69,8 @@ No signup, no ads, and lookups aren't stored.
   crypto-random generators with the EFF wordlist, and a private Have I Been Pwned check.
 - [**subnet-calc**](https://github.com/examineip/subnet-calc) — IPv4 subnet arithmetic with `/0`, `/31`,
   `/32` and mask edge cases done properly, tested against Python's `ipaddress`.
+- [**homograph-check**](https://github.com/examineip/homograph-check) — decodes Punycode, which no
+  browser exposes, and tells you whether a domain is written in the characters you think it is.
 
 Every repo has an offline test suite running in CI, and each tool is live, free and signup-free
 on the site.
