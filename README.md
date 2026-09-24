@@ -71,6 +71,10 @@ No signup, no ads, and lookups aren't stored.
   `/32` and mask edge cases done properly, tested against Python's `ipaddress`.
 - [**homograph-check**](https://github.com/examineip/homograph-check) — decodes Punycode, which no
   browser exposes, and tells you whether a domain is written in the characters you think it is.
+- [**ipv6-classify**](https://github.com/examineip/ipv6-classify) — expands, compresses and classifies
+  IPv6, and recovers the MAC address sitting inside an EUI-64 interface identifier.
+- [**csp-grade**](https://github.com/examineip/csp-grade) — grades a Content-Security-Policy on what
+  browsers actually enforce, not on which keywords appear in the header.
 
 Every repo has an offline test suite running in CI, and each tool is live, free and signup-free
 on the site.
