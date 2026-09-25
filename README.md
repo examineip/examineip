@@ -75,6 +75,12 @@ No signup, no ads, and lookups aren't stored.
   IPv6, and recovers the MAC address sitting inside an EUI-64 interface identifier.
 - [**csp-grade**](https://github.com/examineip/csp-grade) — grades a Content-Security-Policy on what
   browsers actually enforce, not on which keywords appear in the header.
+- [**dnssec-check**](https://github.com/examineip/dnssec-check) — tells signed, unsigned and *broken*
+  DNSSEC apart, and names the DS record that points at a key the zone no longer publishes.
+- [**dmarc-check**](https://github.com/examineip/dmarc-check) — SPF, DMARC and DKIM read the way
+  receivers read them: lookups counted across the include tree, subdomain inheritance, duplicates.
+- [**dmarc-report**](https://github.com/examineip/dmarc-report) — reads DMARC aggregate reports and
+  finds the senders that authenticate, but not as you.
 
 Every repo has an offline test suite running in CI, and each tool is live, free and signup-free
 on the site.
