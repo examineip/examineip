@@ -26,13 +26,15 @@ No signup, no ads, and lookups aren't stored.
 **✉️ Email authentication**
 [DMARC / SPF / DKIM Checker](https://tools.examineip.com/dmarc-checker/) ·
 [Email Header Analyzer](https://tools.examineip.com/email-header-analyzer/) ·
+[SPF and DMARC Generator](https://tools.examineip.com/spf-dmarc-generator/) ·
 [DMARC Report Reader](https://tools.examineip.com/dmarc-report-reader/)
 
 **🔐 Web security**
 [SSL Certificate Checker](https://tools.examineip.com/ssl-checker/) ·
 [HTTP Security Headers](https://tools.examineip.com/security-headers/) ·
 [Lookalike Domain Checker](https://tools.examineip.com/homograph-checker/) ·
-[QR Code Decoder](https://tools.examineip.com/qr-decoder/)
+[QR Code Decoder](https://tools.examineip.com/qr-decoder/) ·
+[Link Expander](https://tools.examineip.com/link-expander/)
 
 **🛠️ Utilities**
 [Encoding & hashing](https://tools.examineip.com/encoding-tools/) ·
@@ -79,6 +81,10 @@ No signup, no ads, and lookups aren't stored.
   DNSSEC apart, and names the DS record that points at a key the zone no longer publishes.
 - [**dmarc-check**](https://github.com/examineip/dmarc-check) — SPF, DMARC and DKIM read the way
   receivers read them: lookups counted across the include tree, subdomain inheritance, duplicates.
+- [**spf-dmarc-builder**](https://github.com/examineip/spf-dmarc-builder) — builds SPF and DMARC records
+  with duplicate handling, 255-character splitting and plain warnings.
+- [**home-device-kev**](https://github.com/examineip/home-device-kev) — home routers, cameras and storage
+  with flaws confirmed used in attacks, as weekly open data from CISA. No exploit code.
 - [**dmarc-report**](https://github.com/examineip/dmarc-report) — reads DMARC aggregate reports and
   finds the senders that authenticate, but not as you.
 
